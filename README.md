@@ -8,7 +8,7 @@ The author of this theme will not be responsible for any technical difficulties 
 1. Download the [Code Injector](https://github.com/Lor-Saba/Code-Injector) extension/add-on (currently available for Chrome, Firefox and Edge, check out their repo for download links and more details).
 2. Open the extension and click on "Add rule".
 3. Copy the contents of [theme.js](https://github.com/Zark84010/Hello-IITK-Custom-Theme/blob/main/theme.js), [theme.css](https://github.com/Zark84010/Hello-IITK-Custom-Theme/blob/main/theme.css) and [theme.html](https://github.com/Zark84010/Hello-IITK-Custom-Theme/blob/main/theme.html) into the JavaScript section, CSS section and HTML section respectively.
-4. Copy the contents of [url.txt](https://github.com/Zark84010/Hello-IITK-Custom-Theme/blob/main/url.txt) into the URL Pattern section.
+4. Copy the contents of [url.txt](https://github.com/Zark84010/Hello-IITK-Custom-Theme/blob/main/url.txt) into the URL Pattern section and click on "Save".
 5. Open any course in [Hello IITK](https://hello.iitk.ac.in/) and enjoy.
 
 Feel free to edit any part of the theme according to your wishes.
