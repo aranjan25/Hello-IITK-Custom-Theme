@@ -1,0 +1,72 @@
+@import url('//fonts.googleapis.com/css?family=Urbanist');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+    font-family: "Urbanist";
+    /* font-family: century-gothic, sans-serif; */
+    font-weight: 601;
+    background-image: url('https://i.ibb.co/f9S2V04/kurisu-happy.png');
+    background-repeat: no-repeat;
+    background-position: 105% 50%;
+    background-size: 30%;
+    background-attachment: fixed;
+    background-color: #e6f7fe;
+}
+
+.site-branding__name a {
+    font-family: century-gothic, sans-serif;
+    font-weight: 601;
+}
+
+.sideMenuBar {
+    background-color: transparent;
+    width: 200px;
+}
+
+.courseTitle {
+    font-family: 'Press Start 2P';
+    white-space: initial;
+}
+
+.courseTitleAndDescriptionBox {
+    height: auto;
+}
+
+.courseTitleTopBox {
+    border-top-color: transparent;
+    border-bottom-color: #e6f7fe;
+    border-left-color: transparent;
+    border-right-color: transparent;
+}
+
+.courseHomeBox {
+    background-image: url("https://media.istockphoto.com/photos/abstract-blue-backgrounds-picture-id1225495890?k=6&m=1225495890&s=612x612&w=0&h=ASSY6rrrXAz3jX_4sRqTx4li9OK2gIiTXy5S74PjMUQ=");
+    background-attachment: fixed;
+}
+
+.logoutSideButton span.sideMenuBarOptionText {
+    color: #f00;
+    font-weight: 801;
+}
+
+.sideMenuBarOptionText {
+    font-weight: 400;
+}
+
+.sideMenuBarOption > a.active > .sideMenuBarOptionText {
+    font-weight: 801;
+}
+
+.forumTabOne, .forumTabTwo, .forumTabThree, .forumPrimaryTabs {
+    /* border-color: black; */
+    background-color: white;
+}
+
+.forumTopicDescriptionBox {
+    background-color: white;
+    /* margin-bottom: 0; */
+}
+
+.boxy {
+    background-color: white;
+}
