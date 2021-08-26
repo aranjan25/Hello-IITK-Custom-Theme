@@ -1,5 +1,5 @@
 # Hello IITK Custom Theme
-This is a custom [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate)ish theme for [Hello IITK](https://hello.iitk.ac.in/), the platform created by IIT Kanpur for distributing lectures, assignments, conducting quizzes etc. during the Online semesters. It uses custom JavaScript, CSS, and HTML injection to change the look of the platform.
+This is a custom [Steins;Gate](https://myanimelist.net/anime/9253/Steins_Gate)ish theme for [Hello IITK](https://hello.iitk.ac.in/), the platform created by IIT Kanpur for distributing lectures, assignments, conducting quizzes etc. during the Online semesters. It uses custom JavaScript, CSS, and HTML injection to change the look of the platform. Below is a disclaimer, though I am not expecting to break anything.
 
 ## Disclaimer
 The author of this theme will not be responsible for any technical difficulties caused which may disrupt the functionioning of the Hello IITK platform (for e.g. disruptions in quizzes, assignments etc.). Any such disruptions, if any, are purely unintentional.
